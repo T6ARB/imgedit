@@ -16,7 +16,7 @@ A **simple** command-line image editor written in Python, perfect for quick imag
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/T6ARB/imgedit.git
+git clone https://github.com/QK-KV/imgedit.git
 cd imgedit
 pip install -r requirements.txt
 ```
@@ -63,13 +63,3 @@ You can replace it with any `.ttf` font you prefer.
 - Make sure the input image path is correct.  
 - Output will overwrite if the file already exists.  
 - Works on Termux and any system with Python and dependencies installed.
-
----
-
-## 🛠️ How to contribute
-
-Feel free to fork and send pull requests for improvements or new features!
-
----
-
-Happy editing! 🎉
