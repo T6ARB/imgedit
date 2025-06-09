@@ -7,8 +7,6 @@
 
 ---
 
-## ⚙️ Installation
-
 ```bash
 git clone https://github.com/ekhbari/imgedit.git
 cd imgedit
