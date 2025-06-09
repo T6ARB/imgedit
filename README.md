@@ -1,8 +1,5 @@
 # imgedit
 
-
-## 🚀 Features
-
 -  Resize images  
 -  Rotate images  
 -  Add text overlay  
